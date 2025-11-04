@@ -4,7 +4,7 @@ Data Scientist based in Lisbon, PT 🇵🇹
 Portfolio: [andyolivers.com](https://andyolivers.com)
 
 ---
-### Networks
+### Find Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andyolivers)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/andyolivers)
 
